@@ -5,4 +5,4 @@ As my project is for a consulting client, I had to use simulated data for this p
 
 (2) the month six delinquent customer (M6) who has made at least one single credit card payment but at some point becomes delinquent for six months running. At the six month mark, this customer is charged off the company's books.  
 
-As both the NP and M6 groups have an impact on coroporate revenue, we need to predict, based on over 2300 features, which customers are more likely to commit credit card fraud or six-month delinquent/charge-off status.
+As both the NP and M6 groups have an impact on corporate revenue, we needed to predict which customers are most likely to commit credit card fraud or six-month delinquent/charge-off status.  I had access to over 2300 proprietary features and thus had to reduce that feature set to find which were the most important.
